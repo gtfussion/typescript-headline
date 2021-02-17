@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.wrap{
+  word-wrap: break-word;
+}
 
 .App-logo {
   height: 40vmin;
